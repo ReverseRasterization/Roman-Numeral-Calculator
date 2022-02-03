@@ -1,2 +1,2 @@
 # Roman-Numeral-Calculator
-Simple program that calculates roman numerals
+A simple python program that calculates roman numerals
